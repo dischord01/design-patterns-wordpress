@@ -1,8 +1,10 @@
 <?php
-/*  @package: 		DPWP
+
+/**
+ *  @package: 		DPWP
  *  @author:        Brad Sollar <brad.sollar@arcwaveusa.com>
  *
- *	Plugin Name: 	Design Patterns
+ *	Plugin Name: 	Design Patterns Wordpress
  *	Description:    Tuts+ Design Pattern Plugin
  *	Author:         Brad Sollar
  *	Author URI:     http://arcwaveusa.com

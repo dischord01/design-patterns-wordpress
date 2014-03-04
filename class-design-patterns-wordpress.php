@@ -1,22 +1,21 @@
 <?php
-/*  @package: 		DPWP
- *  @author:        Brad Sollar <brad.sollar@arcwaveusa.com>
- *
- *	Plugin Name: 	Design Patterns
- *	Description:    Tuts+ Design Pattern Plugin
- *	Author:         Brad Sollar
- *	Author URI:     http://arcwaveusa.com
- *	Version: 		1.0.0
- *  License:        GPL-2.0+
- *	Text Domain: 	starter_kit
- *	Domain Path: 	languages/
+
+/**
+ *  @package 		DPWP
+ *  @author         Brad Sollar <brad.sollar@arcwaveusa.com>
+ *  @license		GPL-2.0+
+ *  @link  			httl:arcwaveusa.com
+ *  @copyright		2014 arcwaveusa
  */
 
-/*
- *  Package:        DPWP
- *	Author:         Brad Sollar
+/**
+ *  @package        DPWP
+ *	@author         Brad Sollar <brad.sollar@arcwaveusa.com>
  */
+
 class Design_Patterns_Wordpress {
+
+	private $twitter_handle;
 
 	private static $instance;
 
